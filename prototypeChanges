@@ -1,0 +1,14 @@
+Changes that the protoype case needs:
+1. Make it smaller
+- Reduce wall thickness to 2mm
+- Reduce height
+- Inset the charging controller PCB
+2. Shrink screen hole
+3. Shrink clickwheel hole
+4. Reduce lip for DAC opening
+5. Add mount points for PCBs
+6. Add charging port
+7. Add ports for switches
+8. Get top and bottom the same size
+9. Reduce width by 0.5mm
+
