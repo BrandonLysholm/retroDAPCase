@@ -1,0 +1,18 @@
+battery:
+width: 22mm (ish), but at 20mm is when it curves so that it is out of the way
+
+charging port:
+width: 16mm
+length: 18mm
+mounting hole: starts 16mm from edge that has the port
+seems to be similar size to Raspberry pi
+
+clickwheel:
+height: 6mm
+
+switch:
+length 10mm
+width: 5mm
+depth: 5mm
+switch depth: 4mm
+travel 7mm
