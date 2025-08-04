@@ -4,7 +4,7 @@ Overall Issues:
 
 Bottom Issues:
 - DAC volume knob did not have clearance
-- RPi was too close to DAC and did not properly clear the outputs
+- RPi was too close to DAC and did not properly clear the outputs - doesn't matter with redesign 
 - not enough depth for PCB, DAC, and screen - need to add about 2-3mm
 
 Top Issues:
