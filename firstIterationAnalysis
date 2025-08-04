@@ -1,0 +1,25 @@
+Overall Issues:
+- top and bottom do not line up properly`
+
+
+Bottom Issues:
+- DAC volume knob did not have clearance
+- RPi was too close to DAC and did not properly clear the outputs
+- not enough depth for PCB, DAC, and screen - need to add about 2-3mm
+
+Top Issues:
+- not tall enough - issue with the sketch
+- lip too close to left side - issue with the sketch
+- clickwheel mounts are off
+- charge ports are off
+
+New Design Changes:
+- mount RPi and hold switch to top, making the two pieces easily seperable.
+
+
+Parts that worked well:
+- Heated inserts fit well
+- RPi mounts were properly spaced
+- the recess for charger PCB was properly sized
+- bottom length was well sized
+- switches holes were well sized
